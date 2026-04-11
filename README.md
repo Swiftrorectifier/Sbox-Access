@@ -8,8 +8,6 @@
 
 ---
 
-[![Download](og-image.png)]()
-
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/590830/header.jpg" alt="banner" width="100%" />
 
 ---
